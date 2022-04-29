@@ -1,1 +1,3 @@
-# JavaScript-智能小电灯
+# js-light
+
+智能小电灯
