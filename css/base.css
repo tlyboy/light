@@ -16,8 +16,6 @@ body {
   align-items: center;
   min-height: 100vh;
   background: #2c3e50;
-  font-family: 'Noto Sans SC', Inter, -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans',
-    'Helvetica Neue', sans-serif;
+  font-family: 'Noto Sans SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   transition: all 1s;
 }
